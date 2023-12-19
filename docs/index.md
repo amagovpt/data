@@ -1,8 +1,8 @@
 ---
-title: AMA Comunidades - Dados Abertos
+title: Comunidades AP - Dados Abertos
 ---
 
-[voltar a AMA Comunidades](/comunidades/)
+[voltar a Comunidades AP](/comunidades/)
 
 ## Ser parte da comunidade de prática
 
